@@ -2,7 +2,7 @@
 
 A simple resume maker that runs in your browser. Fill in your details and see a live A4 resume. No sign-up, no server, nothing uploaded.
 
-![Resume Builder, college format](screenshot.png)
+
 
 ## Features
 
