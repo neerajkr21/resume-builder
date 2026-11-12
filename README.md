@@ -15,7 +15,7 @@ A simple resume maker that runs in your browser. Fill in your details and see a 
 
 ## How to use
 
-1. Open `index.html` in Chrome, or use the live link: `https://neerajkr21.github.io/REPO-NAME/`
+1. Open `index.html` in Chrome, or use the live link: `https://neerajkr21.github.io/resume-builder/`
 2. Pick a template, then replace the sample text with your own.
 3. Click **Export PDF** and choose **Save as PDF**.
 
